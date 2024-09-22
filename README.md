@@ -1,0 +1,2 @@
+ Nginx, which is often written as "engine-X." Nginx is a popular web server that also functions as a reverse proxy, load balancer, and HTTP cache. It is known for its high performance, stability, and low resource consumption, making it ideal for serving static files, handling large volumes of connections, and balancing load across multiple servers.
+ Apache and Nginx are two of the most popular web servers. There is always debats between Apache abd Nginx , both have pros and cons. Nginx is popular.
